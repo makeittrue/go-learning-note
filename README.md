@@ -5,3 +5,5 @@
 Task 01：[Go初探](Task/Task01.md)
 
 Task 02: [数据类型、关键字、标识符](Task/Task02.md)
+
+Task 03: [变量、常量、枚举](Task/Task03.md)
