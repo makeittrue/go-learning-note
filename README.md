@@ -13,3 +13,5 @@ Task 04: [运算符、控制语句](Task/Task04.md)
 Task 05: [字典、字符串](Task/Task05.md)
 
 Task 06：[数组、切片](Task/Task06.md)
+
+Task 07: [函数](Task/Task07.md)
